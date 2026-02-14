@@ -1,5 +1,12 @@
 <h1 align="center">Hi 👋, I'm Pandurang</h1>
-<h3 align="center">☁️ AWS & DevOps Enthusiast | Linux Administrator | Cloud Engineer</h3>
+
+<h3 align="center">
+☁️ AWS | DevOps | Linux | Cloud Engineer
+</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=00C2FF&center=true&vCenter=true&width=600&lines=AWS+DevOps+Engineer+In+Progress;Linux+Administrator;Cloud+Infrastructure+Builder;Automation+Enthusiast;Daily+AWS+Project+Creator" />
+</p>
 
 ---
 
