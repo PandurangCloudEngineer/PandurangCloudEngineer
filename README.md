@@ -13,87 +13,72 @@
 ## 👨‍💻 About Me
 
 🔹 Linux Administrator transitioning into AWS & DevOps  
-🔹 Passionate about Cloud Infrastructure & Automation  
-🔹 Building hands-on AWS and DevOps projects daily  
-🔹 Strong interest in Infrastructure as Code & CI/CD  
-🔹 Focused on becoming a Professional AWS DevOps Engineer  
-
----
-
-## 🎯 Current Learning Journey
-
-✅ AWS Cloud Architecture  
-✅ DevOps Tools & Automation  
-✅ Monitoring & Logging  
-✅ CI/CD Pipeline Implementation  
-✅ Infrastructure as Code  
+🔹 Passionate about building scalable cloud infrastructure  
+🔹 Practicing real-world AWS & DevOps projects daily  
+🔹 Interested in Infrastructure as Code & Automation  
+🔹 Focused on becoming AWS DevOps Engineer  
 
 ---
 
 ## ☁️ AWS Skills
 
-- EC2
-- VPC
-- IAM
-- S3
-- Route 53
-- CloudFormation
-- Lambda
-- API Gateway
-- DynamoDB
-- CloudWatch
-- Load Balancer
-- Auto Scaling
+<p align="center">
+<img src="https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazonaws"/>
+<img src="https://img.shields.io/badge/EC2-Compute-red?style=for-the-badge&logo=amazonaws"/>
+<img src="https://img.shields.io/badge/VPC-Network-blue?style=for-the-badge&logo=amazonaws"/>
+<img src="https://img.shields.io/badge/S3-Storage-green?style=for-the-badge&logo=amazonaws"/>
+<img src="https://img.shields.io/badge/IAM-Security-yellow?style=for-the-badge&logo=amazonaws"/>
+<img src="https://img.shields.io/badge/Lambda-Serverless-orange?style=for-the-badge&logo=amazonaws"/>
+<img src="https://img.shields.io/badge/CloudFormation-IaC-blue?style=for-the-badge&logo=amazonaws"/>
+</p>
 
 ---
 
 ## ⚙️ DevOps Tools
 
-- Docker
-- Git & GitHub
-- CI/CD Concepts
-- Shell Scripting
-- Infrastructure Automation
-- Monitoring Tools
+<p align="center">
+<img src="https://img.shields.io/badge/Docker-Container-blue?style=for-the-badge&logo=docker"/>
+<img src="https://img.shields.io/badge/Git-Version_Control-orange?style=for-the-badge&logo=git"/>
+<img src="https://img.shields.io/badge/GitHub-Code_Repository-black?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/CI/CD-Automation-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Shell_Scripting-Automation-yellow?style=for-the-badge"/>
+</p>
 
 ---
 
 ## 🐧 Operating Systems
 
-- Linux Administration
-- Server Monitoring
-- User & Permission Management
-- Server Hardening
-- Performance Troubleshooting
+✔ Linux Administration  
+✔ Server Hardening  
+✔ Performance Monitoring  
+✔ User & Permission Management  
 
 ---
 
 ## 💻 Programming & Scripting
 
-- Bash Scripting
-- Python (Automation Basics)
-- YAML
-- JSON
+✔ Bash  
+✔ Python  
+✔ YAML  
+✔ JSON  
 
 ---
 
 ## 📚 Current Challenge
 
 🚀 AWS 30 Days Cloud Challenge  
-Building and uploading real-world AWS projects daily.
+Uploading real-world AWS projects daily.
 
 ---
 
 ## 📂 Featured Projects
 
-🔹 AWS VPC with Public & Private Subnet  
-🔹 Jump Server Architecture  
-🔹 Serverless Web Application Deployment  
-🔹 Load Balancer & Auto Scaling Setup  
+🔹 VPC with Public & Private Subnet  
+🔹 Bastion / Jump Server Architecture  
+🔹 Serverless Web Application  
+🔹 Load Balancer with Auto Scaling  
+🔹 CloudFormation Infrastructure Deployment  
 🔹 Monitoring with CloudWatch  
-🔹 Infrastructure using CloudFormation  
-
-(More projects coming daily 🚀)
 
 ---
 
@@ -109,19 +94,27 @@ Building and uploading real-world AWS projects daily.
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
 ## 🌱 Future Goals
 
 🔸 Become AWS DevOps Engineer  
-🔸 Master Kubernetes & Container Orchestration  
+🔸 Learn Kubernetes & Container Orchestration  
 🔸 Build Scalable Cloud Architectures  
-🔸 Contribute to Open Source DevOps Projects  
+🔸 Contribute to Open Source Projects  
 
 ---
 
 ## 🤝 Connect With Me
 
-📧 Email: (Add your professional email)  
-💼 LinkedIn: (Add your LinkedIn profile link)
+📧 Email: your-email-here  
+💼 LinkedIn: your-linkedin-here  
 
 ---
 
