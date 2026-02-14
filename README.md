@@ -1,61 +1,88 @@
+<!-- ====== HEADER BANNER ====== -->
+
 <h1 align="center">Hi 👋, I'm Pandurang</h1>
 
 <h3 align="center">
-☁️ AWS | DevOps | Linux | Cloud Engineer
+☁️ AWS DevOps Engineer In Progress | Linux Administrator | Cloud Infrastructure Builder
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=00C2FF&center=true&vCenter=true&width=600&lines=AWS+DevOps+Engineer+In+Progress;Linux+Administrator;Cloud+Infrastructure+Builder;Automation+Enthusiast;Daily+AWS+Project+Creator" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=00C2FF&center=true&vCenter=true&width=650&lines=Building+Cloud+Infrastructure;AWS+DevOps+Engineer+Journey;Automation+%7C+Monitoring+%7C+IaC;Daily+Hands-on+Cloud+Projects" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+<!-- ====== PROFILE VIEWS ====== -->
 
-🔹 Linux Administrator transitioning into AWS & DevOps  
-🔹 Passionate about building scalable cloud infrastructure  
-🔹 Practicing real-world AWS & DevOps projects daily  
-🔹 Interested in Infrastructure as Code & Automation  
-🔹 Focused on becoming AWS DevOps Engineer  
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=PandurangCloudEngineer&label=Profile%20Views&color=blue&style=for-the-badge" />
+</p>
 
 ---
 
-## ☁️ AWS Skills
+# 👨‍💻 About Me
+
+🚀 Linux Administrator transitioning into AWS & DevOps  
+☁️ Passionate about building scalable cloud infrastructure  
+🛠️ Strong interest in Automation & Infrastructure as Code  
+📚 Practicing real-world cloud projects daily  
+🎯 Goal → Become Professional AWS DevOps Engineer  
+
+---
+
+# 🧭 DevOps Journey Roadmap
+
+✅ AWS Cloud Foundations  
+✅ Networking & Security  
+✅ Infrastructure as Code  
+🔄 CI/CD Pipeline Automation  
+🔄 Containerization & Kubernetes  
+🔄 Monitoring & Observability  
+
+---
+
+# ☁️ AWS Expertise
 
 <p align="center">
-<img src="https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazonaws"/>
+
 <img src="https://img.shields.io/badge/EC2-Compute-red?style=for-the-badge&logo=amazonaws"/>
 <img src="https://img.shields.io/badge/VPC-Network-blue?style=for-the-badge&logo=amazonaws"/>
 <img src="https://img.shields.io/badge/S3-Storage-green?style=for-the-badge&logo=amazonaws"/>
 <img src="https://img.shields.io/badge/IAM-Security-yellow?style=for-the-badge&logo=amazonaws"/>
 <img src="https://img.shields.io/badge/Lambda-Serverless-orange?style=for-the-badge&logo=amazonaws"/>
-<img src="https://img.shields.io/badge/CloudFormation-IaC-blue?style=for-the-badge&logo=amazonaws"/>
+<img src="https://img.shields.io/badge/API_Gateway-Integration-blue?style=for-the-badge&logo=amazonaws"/>
+<img src="https://img.shields.io/badge/CloudFormation-IaC-darkblue?style=for-the-badge&logo=amazonaws"/>
+<img src="https://img.shields.io/badge/CloudWatch-Monitoring-purple?style=for-the-badge&logo=amazonaws"/>
+
 </p>
 
 ---
 
-## ⚙️ DevOps Tools
+# ⚙️ DevOps & Automation Tools
 
 <p align="center">
+
 <img src="https://img.shields.io/badge/Docker-Container-blue?style=for-the-badge&logo=docker"/>
 <img src="https://img.shields.io/badge/Git-Version_Control-orange?style=for-the-badge&logo=git"/>
-<img src="https://img.shields.io/badge/GitHub-Code_Repository-black?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github"/>
 <img src="https://img.shields.io/badge/CI/CD-Automation-green?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Shell_Scripting-Automation-yellow?style=for-the-badge"/>
+
 </p>
 
 ---
 
-## 🐧 Operating Systems
+# 🐧 Operating System Skills
 
-✔ Linux Administration  
-✔ Server Hardening  
-✔ Performance Monitoring  
+✔ Linux Server Administration  
 ✔ User & Permission Management  
+✔ Server Hardening  
+✔ Performance Troubleshooting  
+✔ System Monitoring  
 
 ---
 
-## 💻 Programming & Scripting
+# 💻 Programming & Scripting
 
 ✔ Bash  
 ✔ Python  
@@ -64,37 +91,42 @@
 
 ---
 
-## 📚 Current Challenge
+# 📂 Featured Cloud Projects
 
-🚀 AWS 30 Days Cloud Challenge  
-Uploading real-world AWS projects daily.
-
----
-
-## 📂 Featured Projects
-
-🔹 VPC with Public & Private Subnet  
-🔹 Bastion / Jump Server Architecture  
-🔹 Serverless Web Application  
-🔹 Load Balancer with Auto Scaling  
-🔹 CloudFormation Infrastructure Deployment  
-🔹 Monitoring with CloudWatch  
+| Project | Description |
+|----------|-------------|
+| 🔐 VPC Architecture | Public & Private Subnet with Bastion Host |
+| 🌐 Serverless Application | Lambda + API Gateway + DynamoDB |
+| ⚖️ Load Balancer Setup | Highly Available Web Architecture |
+| 📊 Monitoring Setup | CloudWatch Logging & Alerts |
+| 🏗️ Infrastructure as Code | CloudFormation Deployment |
 
 ---
 
-## 📊 GitHub Stats
+# 📅 60 Day AWS + DevOps Challenge
+
+🔥 Uploading Real Cloud Projects Daily  
+📈 Tracking Learning & Hands-on Implementation  
+
+---
+
+# 📊 GitHub Performance
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=PandurangCloudEngineer&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=PandurangCloudEngineer&show_icons=true&theme=tokyonight&rank_icon=github" />
 </p>
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=PandurangCloudEngineer&theme=tokyonight" />
 </p>
 
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PandurangCloudEngineer&layout=compact&theme=tokyonight" />
+</p>
+
 ---
 
-## 🐍 Contribution Snake
+# 🐍 Contribution Graph Snake
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
@@ -102,20 +134,23 @@ Uploading real-world AWS projects daily.
 
 ---
 
-## 🌱 Future Goals
+# 🌱 Future Learning Goals
 
-🔸 Become AWS DevOps Engineer  
-🔸 Learn Kubernetes & Container Orchestration  
-🔸 Build Scalable Cloud Architectures  
-🔸 Contribute to Open Source Projects  
+🚀 Kubernetes & Container Orchestration  
+🚀 Terraform Infrastructure Automation  
+🚀 Advanced CI/CD Pipelines  
+🚀 Observability & Monitoring Stack  
+🚀 Multi-Cloud Architecture  
 
 ---
 
-## 🤝 Connect With Me
+# 🤝 Connect With Me
 
 📧 Email: your-email-here  
 💼 LinkedIn: your-linkedin-here  
 
 ---
 
-⭐ Automating today for a scalable tomorrow
+# ⭐ DevOps Quote
+
+"Automate everything that slows innovation."
