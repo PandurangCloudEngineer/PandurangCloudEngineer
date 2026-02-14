@@ -124,15 +124,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PandurangCloudEngineer&layout=compact&theme=tokyonight" />
 </p>
 
----
-
-# 🐍 Contribution Graph Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-</p>
-
----
 
 # 🌱 Future Learning Goals
 
@@ -146,8 +137,7 @@
 
 # 🤝 Connect With Me
 
-📧 Email: your-email-here  
-💼 LinkedIn: your-linkedin-here  
+📧 Email: pandurangjangali@gmail.com
 
 ---
 
